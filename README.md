@@ -1,6 +1,6 @@
 # flutter
 
-A new Flutter application.
+A new Flutter application.It is learn flutter process.
 
 ## Getting Started
 
